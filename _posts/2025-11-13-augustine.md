@@ -5,7 +5,7 @@ date: 2025-11-13
 categories: philosophy
 ---
 
-<p class="post-meta">First post in my philosophy series | November 13, 2024</p>
+<p class="post-meta">First post in my philosophy series | November 13, 2025</p>
 
 # Happy Birthday Augustine (354–430 CE)
 
