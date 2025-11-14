@@ -25,6 +25,8 @@ This blog explores the profound questions of existence, consciousness, and reali
 🧘 **Meditation** - Direct experience of consciousness  
 🕉️ **Spirituality** - The journey of awakening  
 
+
+<a href="_posts/2025-11-13-augustine.md">Read: Happy Birthday Augustine</a>
 ---
 
 *"You are not a drop in the ocean. You are the entire ocean in a drop." — Rumi*
