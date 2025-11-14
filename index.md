@@ -28,7 +28,7 @@ This blog explores the profound questions of existence, consciousness, and reali
 
 Check out the first post on our journey:
 
-### <a href="{{ site.baseurl }}/2025-11-13-happy-birthday-augustine/">Happy Birthday, Augustine! A Sinner's Guide to a Saint</a>
+### <a href="{{ site.baseurl }}/2025-11-13-augustine/">Happy Birthday, Augustine! A Sinner's Guide to a Saint</a>
 
 ---
 
