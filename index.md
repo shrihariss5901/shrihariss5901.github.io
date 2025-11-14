@@ -26,7 +26,10 @@ This blog explores the profound questions of existence, consciousness, and reali
 🕉️ **Spirituality** - The journey of awakening  
 
 
-<a href="_posts/2025-11-13-augustine.md">Read: Happy Birthday Augustine</a>
+Check out the first post on our journey:
+
+### <a href="{{ site.baseurl }}/2024-08-28-happy-birthday-augustine/">Happy Birthday, Augustine! A Sinner's Guide to a Saint</a>
+
 ---
 
 *"You are not a drop in the ocean. You are the entire ocean in a drop." — Rumi*
