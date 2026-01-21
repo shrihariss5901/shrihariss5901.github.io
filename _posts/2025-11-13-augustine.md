@@ -1,7 +1,8 @@
 ---
-layout: post
 title: "Happy Birthday Augustine (354-430 CE)"
 date: 2025-11-13
+categories: [Philosophy, Religion]
+tags: [Augustine, Christianity, Philosophy, Humor]
 ---
 
 Happy birthday Augustine (354-430 CE)—the famous procrastinator and overthinker who stole pears, failed spectacularly (at least in his desire to be good all the time), and finally decided to become a saint—then wrote a million words confessing it, all while trying to figure out how to be good. I actually read about him and very well resonated with him. I think a lot of overthinking, introspective people would too.
