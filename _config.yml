@@ -14,7 +14,7 @@ author:
   name: "Shrihari G"
   bio: "Exploring self-knowledge and awareness of dreams and reality"
   
-minimal_mistakes_skin: "default"  # or "air", "mint", "neon", "dark"
+minimal_mistakes_skin: "air"  # or "default", "air", "mint", "neon", "dark"
 defaults:
   - scope:
       path: ""
