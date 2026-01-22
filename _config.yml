@@ -9,6 +9,14 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+  navigation:
+  - title: "About"
+    url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Contact"
+    url: /contact/
+
 author:
   name: "Shrihari G"
   bio: "Exploring self-knowledge and awareness of dreams and reality"
