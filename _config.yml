@@ -9,12 +9,27 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-
 author:
   name: "Shrihari G"
   bio: "Exploring self-knowledge and awareness of dreams and reality"
   
-minimal_mistakes_skin: "air"  # or "default", "air", "mint", "neon", "dark"
+minimal_mistakes_skin: "dark"
+
+navigation:
+  main:
+    - title: "Astrology"
+      url: /astrology/
+    - title: "Philosophy"
+      url: /philosophy/
+    - title: "Book Reviews"
+      url: /book-reviews/
+    - title: "Manifestation"
+      url: /manifestation-journey/
+    - title: "Services"
+      url: /services/
+    - title: "About"
+      url: /about/
+
 defaults:
   - scope:
       path: ""
@@ -25,3 +40,6 @@ defaults:
       read_time: true
       share: true
       related: true
+
+
+      
